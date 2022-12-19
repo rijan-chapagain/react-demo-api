@@ -1,6 +1,5 @@
-
-using System.Net.Mime;
 using Microsoft.AspNetCore.Mvc;
+using System.Net.Mime;
 
 namespace react_demo_backend.Controllers
 {
